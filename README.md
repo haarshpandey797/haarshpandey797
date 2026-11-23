@@ -10,6 +10,7 @@ Software engineer from Bengaluru. I like building backend and distributed system
 
 #### Projects
 
+- [**invoicepe**](https://github.com/haarshpandey797/invoicepe): a GST invoice and payment SaaS for Indian freelancers. Spring Boot backend and Next.js frontend, with GST invoice PDFs (iText 7), Razorpay payment links and subscriptions, WhatsApp invoice reminders, and JWT authentication.
 - [**qnn-diabetic-retinopathy**](https://github.com/haarshpandey797/qnn-diabetic-retinopathy): a Qiskit QCNN and a quantum kernel SVM that grade diabetic retinopathy on the IDRiD fundus dataset. Includes an exact statevector simulator about 250× faster than `EstimatorQNN`, and benchmarks against classical baselines with cross-validation.
 
 #### Find me
