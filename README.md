@@ -1,11 +1,10 @@
 ### Hi, I'm Harsh 👋
 
-I'm a software engineer at **Swiggy** in Bengaluru. I build backend services in Go and production LLM systems.
+Software engineer from Bengaluru. I like building backend and distributed systems, agentic AI / LLM applications, and lately, quantum machine learning.
 
-- **Backend:** Go services on gRPC and Kafka, including a selfie-check system for delivery partners that handles 800K+ checks a day at 99.9% uptime.
-- **Agentic AI:** an LLM support platform for delivery executives, with multi-step workflows, tool-calling, retrieval, guardrails, and an evaluation pipeline on Databricks and MLflow.
-- **Before Swiggy:** a loan management system in Java, Spring, Hibernate and Oracle at Nucleus Software.
-- **Competitive programming:** LeetCode 450+, CodeChef 3★, HackerRank 6★.
+- **Interests:** distributed systems, event-driven backends, LLM agents and how to evaluate them
+- **Exploring:** quantum machine learning with Qiskit
+- **Competitive programming:** LeetCode 450+, CodeChef 3★, HackerRank 6★
 
 **Tech:** Go · Java · Python · Kafka · gRPC · Redis · DynamoDB · MySQL · Docker · LangChain · Databricks · MLflow
 
